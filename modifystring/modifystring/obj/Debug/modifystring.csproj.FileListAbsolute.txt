@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\modifystring\modifystring\bin\Debug\modifystring.exe.config
+c:\users\yosra\source\repos\modifystring\modifystring\bin\Debug\modifystring.exe
+c:\users\yosra\source\repos\modifystring\modifystring\bin\Debug\modifystring.pdb
+c:\users\yosra\source\repos\modifystring\modifystring\obj\Debug\modifystring.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\modifystring\modifystring\obj\Debug\modifystring.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\modifystring\modifystring\obj\Debug\modifystring.exe
+c:\users\yosra\source\repos\modifystring\modifystring\obj\Debug\modifystring.pdb

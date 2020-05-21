@@ -1,0 +1,11 @@
+C:\Users\yosra\source\repos\new form\new form\bin\Debug\new form.exe.config
+C:\Users\yosra\source\repos\new form\new form\bin\Debug\new form.exe
+C:\Users\yosra\source\repos\new form\new form\bin\Debug\new form.pdb
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new form.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new_form.Form1.resources
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new_form.Properties.Resources.resources
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new form.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new form.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new form.exe
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new form.pdb
+C:\Users\yosra\source\repos\new form\new form\obj\Debug\new_form.Form2.resources

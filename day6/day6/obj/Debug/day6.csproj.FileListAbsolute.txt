@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\day6\day6\bin\Debug\day6.exe.config
+c:\users\yosra\source\repos\day6\day6\bin\Debug\day6.exe
+c:\users\yosra\source\repos\day6\day6\bin\Debug\day6.pdb
+c:\users\yosra\source\repos\day6\day6\obj\Debug\day6.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\day6\day6\obj\Debug\day6.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\day6\day6\obj\Debug\day6.exe
+c:\users\yosra\source\repos\day6\day6\obj\Debug\day6.pdb

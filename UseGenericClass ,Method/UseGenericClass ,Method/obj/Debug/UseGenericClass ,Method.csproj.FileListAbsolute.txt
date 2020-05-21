@@ -1,0 +1,7 @@
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\obj\Debug\UseGenericClass ,Method.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\obj\Debug\UseGenericClass ,Method.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\bin\Debug\UseGenericClass ,Method.exe.config
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\bin\Debug\UseGenericClass ,Method.exe
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\bin\Debug\UseGenericClass ,Method.pdb
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\obj\Debug\UseGenericClass ,Method.exe
+C:\Users\yosra\source\repos\UseGenericClass ,Method\UseGenericClass ,Method\obj\Debug\UseGenericClass ,Method.pdb

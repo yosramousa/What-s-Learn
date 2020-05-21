@@ -1,0 +1,9 @@
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\yosra\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\yosra\source\repos\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\yosra\source\repos\FirstForm\FirstForm\obj\Debug\FirstForm.pdb

@@ -1,0 +1,11 @@
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\bin\Debug\DeskTopApp.exe.config
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\bin\Debug\DeskTopApp.exe
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\bin\Debug\DeskTopApp.pdb
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.Form1.resources
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.Properties.Resources.resources
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.csproj.GenerateResource.Cache
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.exe
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.pdb
+c:\users\yosra\source\repos\DeskTopApp\DeskTopApp\obj\Debug\DeskTopApp.LoginForm.resources

@@ -1,0 +1,13 @@
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\ModelD4.exe.config
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\ModelD4.exe
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\ModelD4.pdb
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\EntityFramework.dll
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\EntityFramework.xml
+C:\Users\yosra\source\repos\ModelD4\ModelD4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.exe
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.pdb
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.Migrations.iNit.resources
+C:\Users\yosra\source\repos\ModelD4\ModelD4\obj\Debug\ModelD4.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\operate overloading\operate overloading\bin\Debug\operate overloading.exe.config
+c:\users\yosra\source\repos\operate overloading\operate overloading\bin\Debug\operate overloading.exe
+c:\users\yosra\source\repos\operate overloading\operate overloading\bin\Debug\operate overloading.pdb
+c:\users\yosra\source\repos\operate overloading\operate overloading\obj\Debug\operate overloading.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\operate overloading\operate overloading\obj\Debug\operate overloading.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\operate overloading\operate overloading\obj\Debug\operate overloading.exe
+c:\users\yosra\source\repos\operate overloading\operate overloading\obj\Debug\operate overloading.pdb

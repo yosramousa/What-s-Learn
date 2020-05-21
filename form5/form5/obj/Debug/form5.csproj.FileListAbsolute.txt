@@ -1,0 +1,10 @@
+C:\Users\yosra\source\repos\form5\form5\bin\Debug\form5.exe.config
+C:\Users\yosra\source\repos\form5\form5\bin\Debug\form5.exe
+C:\Users\yosra\source\repos\form5\form5\bin\Debug\form5.pdb
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.Form1.resources
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.Properties.Resources.resources
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.exe
+C:\Users\yosra\source\repos\form5\form5\obj\Debug\form5.pdb

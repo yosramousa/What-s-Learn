@@ -1,0 +1,92 @@
+﻿
+@using ToDoList.Models
+@model  IToDoList
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <title>Index</title>
+</head>
+<body class="container">
+
+    <div class="row">
+        <table class="table table-striped   mt-5" >
+            <thead>
+                <tr>
+                    <th scope="row">Description</th>
+                    <th scope="row">Status</th>
+                    <th scope="row">Change Status</th>
+                    <th scope="row">Delete</th>
+                </tr>
+
+
+            </thead>
+            <tbody>
+                @foreach (ToDoListResponse Todo in ViewBag.mylist)
+                {
+                    <tr>
+
+                        <td scope="row">@Todo.Description</td>
+                        <td scope="row">@Todo.Status</td>
+                        <td scope="row">
+
+                            @Html.DropDownListFor(i => i.Status, new List<SelectListItem>()
+                           {
+                                new SelectListItem(){Text="Choose an option"},
+                                new SelectListItem(){Text="Not Start", Value="0"},
+                                new SelectListItem(){Text="Start", Value="1"},
+                                    new SelectListItem(){Text="End", Value="5"},
+                           }, new
+                           {
+                               @class = "form-control",
+                               @onchange = "callchangeFun(this.value," + @Todo.ID + ")"
+
+
+                           })
+                        </td>
+                        <td scope="row">
+                            <a href="/Index/Delete/@Todo.ID" class="btn btn-danger"> Delete </a>
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+
+        <div class="col-10 ">
+            @using (Html.BeginForm("Add", "Index"))
+            {
+                <div class="row">
+                    <div class="form-group col-6">
+                        @Html.TextBoxFor(i => i.Description, new { @class = "form-control" })
+                    </div>
+
+                    <div class=" col-4">
+                        <input type="submit" class="form-control  btn btn-success w-100 font-weight-bold" value="Add" />
+                    </div>
+                </div>
+
+
+            }
+
+        </div>
+    </div>
+
+    <script>
+
+        function callchangeFun(status, todoid) {
+
+
+            window.location.href = "/Index/callchangeFun/" + todoid + "/" + status;
+        }
+
+    </script>
+</body>
+</html>

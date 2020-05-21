@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\yosra\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\yosra\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\yosra\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\yosra\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb

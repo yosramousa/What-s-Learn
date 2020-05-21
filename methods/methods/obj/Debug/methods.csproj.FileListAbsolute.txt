@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\methods\methods\bin\Debug\methods.exe.config
+c:\users\yosra\source\repos\methods\methods\bin\Debug\methods.exe
+c:\users\yosra\source\repos\methods\methods\bin\Debug\methods.pdb
+c:\users\yosra\source\repos\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\methods\methods\obj\Debug\methods.exe
+c:\users\yosra\source\repos\methods\methods\obj\Debug\methods.pdb

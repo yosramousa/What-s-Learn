@@ -1,0 +1,7 @@
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\bin\Debug\UseIndexers.exe.config
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\bin\Debug\UseIndexers.exe
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\bin\Debug\UseIndexers.pdb
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\obj\Debug\UseIndexers.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\obj\Debug\UseIndexers.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\obj\Debug\UseIndexers.exe
+C:\Users\yosra\source\repos\UseIndexers\UseIndexers\obj\Debug\UseIndexers.pdb

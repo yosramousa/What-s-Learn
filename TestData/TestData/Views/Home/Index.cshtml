@@ -1,0 +1,34 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>Index</title>
+</head>
+<body>
+   
+        <div class="Content">
+          
+         
+
+            <form  method="post" action="/Home/login">
+                <div class="form-group">
+                    <label for="exampleDropdownFormEmail2">User Name</label>
+                    <input  name ="UserName"type="Text" class="form-control" id="exampleDropdownFormEmail2">
+                </div>
+                <div class="form-group">
+                    <label for="exampleDropdownFormPassword2">Password</label>
+                    <input  name ="Password"type="Password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Password">
+                </div>
+                
+                <input type="submit" class="btn btn-primary" value="Login" /> 
+            </form>
+        </div>
+  
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\yosra\source\repos\bankaccount\bankaccount\bin\Debug\bankaccount.exe.config
+C:\Users\yosra\source\repos\bankaccount\bankaccount\bin\Debug\bankaccount.exe
+C:\Users\yosra\source\repos\bankaccount\bankaccount\bin\Debug\bankaccount.pdb
+C:\Users\yosra\source\repos\bankaccount\bankaccount\obj\Debug\bankaccount.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\bankaccount\bankaccount\obj\Debug\bankaccount.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\bankaccount\bankaccount\obj\Debug\bankaccount.exe
+C:\Users\yosra\source\repos\bankaccount\bankaccount\obj\Debug\bankaccount.pdb

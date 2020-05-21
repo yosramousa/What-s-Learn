@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\search\search\bin\Debug\search.exe.config
+c:\users\yosra\source\repos\search\search\bin\Debug\search.exe
+c:\users\yosra\source\repos\search\search\bin\Debug\search.pdb
+c:\users\yosra\source\repos\search\search\obj\Debug\search.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\search\search\obj\Debug\search.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\search\search\obj\Debug\search.exe
+c:\users\yosra\source\repos\search\search\obj\Debug\search.pdb

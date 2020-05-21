@@ -1,0 +1,10 @@
+c:\users\yosra\source\repos\form55\form55\bin\Debug\form55.exe.config
+c:\users\yosra\source\repos\form55\form55\bin\Debug\form55.exe
+c:\users\yosra\source\repos\form55\form55\bin\Debug\form55.pdb
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.Form1.resources
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.Properties.Resources.resources
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.csproj.GenerateResource.Cache
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.exe
+c:\users\yosra\source\repos\form55\form55\obj\Debug\form55.pdb

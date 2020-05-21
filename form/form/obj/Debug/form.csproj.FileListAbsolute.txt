@@ -1,0 +1,9 @@
+C:\Users\yosra\source\repos\form\form\bin\Debug\form.exe.config
+C:\Users\yosra\source\repos\form\form\bin\Debug\form.exe
+C:\Users\yosra\source\repos\form\form\bin\Debug\form.pdb
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.Form1.resources
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.exe
+C:\Users\yosra\source\repos\form\form\obj\Debug\form.pdb

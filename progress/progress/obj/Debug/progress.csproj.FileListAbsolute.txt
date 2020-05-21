@@ -1,0 +1,10 @@
+C:\Users\yosra\source\repos\progress\progress\bin\Debug\progress.exe.config
+C:\Users\yosra\source\repos\progress\progress\bin\Debug\progress.exe
+C:\Users\yosra\source\repos\progress\progress\bin\Debug\progress.pdb
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.Form1.resources
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.Properties.Resources.resources
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.exe
+C:\Users\yosra\source\repos\progress\progress\obj\Debug\progress.pdb

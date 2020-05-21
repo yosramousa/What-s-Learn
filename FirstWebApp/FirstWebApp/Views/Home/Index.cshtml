@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    <title>Index</title>
+</head>
+<body class="container">
+
+    <div class="row">
+        <div class="col-3"></div>
+
+        <div class="col-6"></div>
+        <div class="text-center">
+            <h1>Welcome To My Website</h1>
+            <br />
+            <h3>This Is My First Wep App so i'm so Happy!</h3>
+            <br />
+            @Html.ActionLink("Register", "Register", null, new { @class = "btn btn_sucsess" })
+        </div>
+
+        <div class="col-3"></div>
+
+
+
+    </div>
+    <div>
+    </div>
+</body>
+</html>

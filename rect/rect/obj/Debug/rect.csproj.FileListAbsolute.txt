@@ -1,0 +1,9 @@
+c:\users\yosra\source\repos\rect\rect\bin\Debug\rect.exe.config
+c:\users\yosra\source\repos\rect\rect\bin\Debug\rect.exe
+c:\users\yosra\source\repos\rect\rect\bin\Debug\rect.pdb
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.Rectangle.resources
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.csproj.GenerateResource.Cache
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.exe
+c:\users\yosra\source\repos\rect\rect\obj\Debug\rect.pdb

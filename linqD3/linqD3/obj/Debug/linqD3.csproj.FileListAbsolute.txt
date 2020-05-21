@@ -1,0 +1,7 @@
+C:\Users\yosra\source\repos\linqD3\linqD3\obj\Debug\linqD3.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\linqD3\linqD3\obj\Debug\linqD3.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\linqD3\linqD3\bin\Debug\linqD3.exe.config
+C:\Users\yosra\source\repos\linqD3\linqD3\bin\Debug\linqD3.exe
+C:\Users\yosra\source\repos\linqD3\linqD3\bin\Debug\linqD3.pdb
+C:\Users\yosra\source\repos\linqD3\linqD3\obj\Debug\linqD3.exe
+C:\Users\yosra\source\repos\linqD3\linqD3\obj\Debug\linqD3.pdb

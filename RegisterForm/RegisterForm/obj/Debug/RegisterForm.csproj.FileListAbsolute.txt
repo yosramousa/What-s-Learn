@@ -1,0 +1,10 @@
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.Cache
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\yosra\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.pdb

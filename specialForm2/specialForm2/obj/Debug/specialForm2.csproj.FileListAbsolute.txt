@@ -1,0 +1,10 @@
+c:\users\yosra\source\repos\specialForm2\specialForm2\bin\Debug\specialForm2.exe.config
+c:\users\yosra\source\repos\specialForm2\specialForm2\bin\Debug\specialForm2.exe
+c:\users\yosra\source\repos\specialForm2\specialForm2\bin\Debug\specialForm2.pdb
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.Form1.resources
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.Properties.Resources.resources
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.csproj.GenerateResource.Cache
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.exe
+c:\users\yosra\source\repos\specialForm2\specialForm2\obj\Debug\specialForm2.pdb

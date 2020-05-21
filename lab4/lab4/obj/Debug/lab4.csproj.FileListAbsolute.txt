@@ -1,0 +1,7 @@
+c:\users\yosra\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+c:\users\yosra\source\repos\lab4\lab4\bin\Debug\lab4.exe
+c:\users\yosra\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+c:\users\yosra\source\repos\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+c:\users\yosra\source\repos\lab4\lab4\obj\Debug\lab4.exe
+c:\users\yosra\source\repos\lab4\lab4\obj\Debug\lab4.pdb

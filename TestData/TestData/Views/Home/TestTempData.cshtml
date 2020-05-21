@@ -1,0 +1,61 @@
+﻿
+@using TestData.Models
+@model  employee
+
+        <!DOCTYPE html>
+
+        <html>
+        <head>
+            <meta name="viewport" content="width=device-width" />
+            <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+            <script src="~/Scripts/bootstrap.min.js"></script>
+            <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+            <title>TestTempData</title>
+        </head>
+        <body>
+            <div class="container">
+
+                <div class="row">
+                <table class="table table-striped   mt-5">
+                    <thead>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <th scope="row">Email</th>
+                            <th scope="row">Departments</th>
+                            <th scope="row">Details</th>
+                        </tr>
+
+
+                    </thead>
+                    <tbody>
+                        @foreach (employee T in ViewBag.mylist)
+                        {
+                            <tr>
+
+                                <td scope="row">@T.Name</td>
+                                <td scope="row">@T.Email</td>
+                                <td scope="row">@T.Department.Name</td>
+                               
+                                <td scope="row">
+                                    <a href="/Home/Details/@T.ID" class="btn btn-danger"> Details</a>
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+                    <div class=" col-4">
+                        <a  href="/Home/Add" class="  btn btn-successd"  >Add Employee</a>
+                    </div>
+
+                
+
+
+                   
+
+                </div>
+            </div>
+
+        </body>
+    </html>

@@ -1,0 +1,7 @@
+C:\Users\yosra\source\repos\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\task1\task1\bin\Debug\task1.exe.config
+C:\Users\yosra\source\repos\task1\task1\bin\Debug\task1.exe
+C:\Users\yosra\source\repos\task1\task1\bin\Debug\task1.pdb
+C:\Users\yosra\source\repos\task1\task1\obj\Debug\task1.exe
+C:\Users\yosra\source\repos\task1\task1\obj\Debug\task1.pdb

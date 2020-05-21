@@ -1,0 +1,23 @@
+﻿
+@using TestData.Models
+@model employee
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        Name:<label>@Model.Name</label> <br />
+       Password:<label>@Model.Password</label> <br />
+     UserName:<label>@Model.UserName</label> <br />
+       Email:<label>@Model.Email</label> <br />
+       Department Name:<label>@Model.Department.Name</label> <br />
+        <a  href="/Home/Delete/@Model.ID"> Delete</a>
+        <a href="/Home/Update/@Model.ID"> Update</a>
+        <a href="/Home/TestTempData"> Back</a>
+    </div>
+</body>
+</html>

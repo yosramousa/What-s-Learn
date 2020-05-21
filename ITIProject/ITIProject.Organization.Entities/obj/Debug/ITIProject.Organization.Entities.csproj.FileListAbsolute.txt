@@ -1,0 +1,11 @@
+c:\users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\obj\Debug\ITIProject.Organization.Entities.csprojResolveAssemblyReference.cache
+c:\users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\obj\Debug\ITIProject.Organization.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\ITIProject.Organization.Entities.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\ITIProject.Organization.Entities.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\obj\Debug\ITIProject.Organization.Entities.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\obj\Debug\ITIProject.Organization.Entities.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\ITIProject.Organization.Entities.dll.config
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Entities\bin\Debug\EntityFramework.SqlServer.xml

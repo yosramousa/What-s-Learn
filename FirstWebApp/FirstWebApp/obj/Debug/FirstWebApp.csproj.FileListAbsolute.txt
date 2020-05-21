@@ -1,0 +1,2 @@
+C:\Users\yosra\source\repos\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csproj.CoreCompileInputs.cache

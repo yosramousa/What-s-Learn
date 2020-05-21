@@ -1,0 +1,17 @@
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\obj\Debug\ITIProject.Organization.Services.csprojResolveAssemblyReference.cache
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\obj\Debug\ITIProject.Organization.Services.csproj.CoreCompileInputs.cache
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Services.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Services.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Entities.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Repositories.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.ViewModels.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\EntityFramework.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Entities.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Entities.dll.config
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Repositories.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.Repositories.dll.config
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.ViewModels.pdb
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\ITIProject.Organization.ViewModels.dll.config
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\bin\Debug\EntityFramework.xml
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\obj\Debug\ITIProject.Organization.Services.dll
+C:\Users\yosra\source\repos\ITIProject\ITIProject.Organization.Services\obj\Debug\ITIProject.Organization.Services.pdb
